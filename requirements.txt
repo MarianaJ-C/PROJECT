@@ -1,4 +1,3 @@
 pandas
 plotly_express
 streamlit
-pip install -r requirements.txt
