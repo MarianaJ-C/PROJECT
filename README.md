@@ -30,3 +30,5 @@ Para ejecutar este proyecto, necesitas tener los siguientes paquetes instalados 
 - **plotly-express**: Para crear gráficos interactivos.
 - **streamlit**: Para desarrollar la aplicación web.
 
+## Link del Render
+https://project-1-52u6.onrender.com
